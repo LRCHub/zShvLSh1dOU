@@ -1,0 +1,130 @@
+# m-flo – come again
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+it's Friday I want to play,
+on Saturday
+don't want to stay, at home
+thinking of you
+so let me party all night long,
+it's Friday I want to play,
+on Saturday
+don't waste no more
+time on you
+so let me party all night long,
+なんども
+着信のチェックしてみても
+you won't appear
+こっちからかけてもいいけど
+my pride gets in the way
+my friends keep telling me
+you ain't good for me
+like 「あんなやつほっときな」
+"Girl there's so much to see"
+良い人に出会うチャンスはあるし
+金曜日のスカラに君を忘れに
+踊り明かすよ 今夜
+I'll sing you this song
+届くように
+切ないメロディーに
+涙しないようにクールにね
+踊り続けさせて ねぇ DJ
+won't you come again
+フロアーをもっと熱く 響かせて
+Yeah, 朝までまわし続けて
+帰りたくないから止めないで
+Bring it to ya live
+直通これ Astro
+しれてるはず もういわずと
+ever since 初登場
+耳から離れることねえ flow
+from the 滑走路 bow!
+銃弾突入あらゆる空間,
+あらゆる周波数
+invasion stere-ere-o-phonic 芸術
+so tell me who da...
+6万ドルのヒューマン
+chillin on my 空飛ぶじゅうたん
+m-flo crew is the 集団
+keepin clubs more
+ソシアル than アフロ
+キュウーバン
+どかしてくぜ道 封鎖
+するやつら 蹴飛ばす これ習慣
+ain't nuthin to it,
+だまらす泣く子
+取り巻きくっちゃうフロントアクト
+this mic is live(wire)
+live(wire)live(wire)
+this flow is live(wire)
+live(wire)live(wire)
+DJ is live(wire)
+live(wire)live(wire)
+The floor is live(wire)
+live(wire)live(wire)
+こんなに 待ってても
+君にdissされるし
+つまらない関係ならば
+why don't you let me go
+My friends keep telling me
+I should find someone
+つめたくなくて 優しい
+a special one who'd
+treat you respectfully
+だってそれが普通だし
+夜中過ぎるころには
+君より他の素敵な人と 今夜
+we'll sing you this song
+そう 素直に 寄り添う二人
+体が感じるままにね
+踊り続けさせて ねぇ DJ
+won't you come again
+フロアーをもっと熱く 響かせて
+Yeah, 朝までまわし続けて
+帰りたくないから止めないで
+おくれんなよ
+get down get down to the floor,
+party people
+until the(Hoot! Hoot!)
+ピーポーピーポー
+come to bumrush the 営業
+清掃してフィエスタ
+ウェスタン帽にポリエスタ
+シャツ えりだけ巨大
+check the スニーカーの素材
+わに皮 I'm the man of the hour
+君たちビリ
+like Jean and not my lover
+シャバダバ it's past eleven
+フリズビーにするぜ ワックな皿
+your style's cheesy and gay
+it's チーカマ
+I Blankey Jet through your city
+今日はサタデー
+We gets dumb and dumber
+踊り続けさせて ねぇ DJ
+won't you come again
+フロアーをもっと熱く 響かせて
+Yeah, 朝までまわし続けて
+帰りたくないから止めないで
+it's Friday I want to play,
+on Saturday
+don't want to stay, at home
+thinking of you
+so let me party all night long,
+it's Friday I want to play,
+on Saturday
+don't waste no more time on you
+so let me party all night long,
+夜中過ぎるころには
+君より他の素敵な人と 今夜
+we'll sing you this song
+そう 素直に 寄り添う二人
+体が感じるままにね
+踊り続けさせて ねぇ DJ
+won't you come again
+フロアーをもっと熱く 響かせて
+Yeah, 朝までまわし続けて
+帰りたくないから止めないで
+```
