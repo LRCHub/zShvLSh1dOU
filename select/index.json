@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "come again",
+  "base_artist": "m-flo",
+  "createdAt": "2026-03-24T13:55:57.713655Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hard Times Come Again No More",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/01_Hard_Times_Come_Again_No_More_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Here You Come Again",
+      "artist": "Dolly Parton",
+      "has_synced": false,
+      "path": "select/02_Here_You_Come_Again_Dolly_Parton.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Here You Come Again (Single (2002 Remaster))",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/03_Here_You_Come_Again_(Single_(2002_Remaster))_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Come Again",
+      "artist": "Lil Tracy",
+      "has_synced": false,
+      "path": "select/04_Come_Again_Lil_Tracy.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Time Has Come Again",
+      "artist": "The Last Shadow Puppets",
+      "has_synced": true,
+      "path": "select/05_The_Time_Has_Come_Again_The_Last_Shadow_Puppets.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Come Again",
+      "artist": "Au Pairs",
+      "has_synced": true,
+      "path": "select/06_Come_Again_Au_Pairs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Come Again",
+      "artist": "The Au Pairs",
+      "has_synced": true,
+      "path": "select/07_Come_Again_The_Au_Pairs.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Lee Majors Come Again",
+      "artist": "Beastie Boys",
+      "has_synced": false,
+      "path": "select/08_Lee_Majors_Come_Again_Beastie_Boys.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Come Again",
+      "artist": "Staind",
+      "has_synced": true,
+      "path": "select/09_Come_Again_Staind.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Come Again",
+      "artist": "Sting feat. Edin Karamazov",
+      "has_synced": true,
+      "path": "select/10_Come_Again_Sting_feat._Edin_Karamazov.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Come Again",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/11_Come_Again_Sting.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Come Again",
+      "artist": "Edin Karamazov & Sting",
+      "has_synced": false,
+      "path": "select/12_Come_Again_Edin_Karamazov_&_Sting.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Come Again",
+      "artist": "Sting Edin Karamazov",
+      "has_synced": false,
+      "path": "select/13_Come_Again_Sting_Edin_Karamazov.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Come Again",
+      "artist": "Kurt Vile",
+      "has_synced": true,
+      "path": "select/14_Come_Again_Kurt_Vile.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Come Again",
+      "artist": "Staind",
+      "has_synced": true,
+      "path": "select/15_Come_Again_Staind.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "come again",
+      "artist": "m-flo",
+      "has_synced": false,
+      "path": "select/pl_01_come_again_m-flo.txt"
+    }
+  ]
+}
